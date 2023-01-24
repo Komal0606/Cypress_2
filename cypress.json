@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://opensource-demo.orangehrmlive.com",
+  "Username": "Admin",
+  "Password": "admin123",
+  "failOnStatusCode": false,
+  "chromeWebSecurity": false ,
+
+  "env" : {
+    "url" : "https://jsonplaceholder.typicode.com/"
+  },
+
+  "experimentalSessionAndOrigin" : true
+
+}
